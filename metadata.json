@@ -1,0 +1,7 @@
+{
+  "name": "PhysioClass",
+  "description": "A high-performance language learning app featuring a real-time conversational AI tutor powered by Gemini Live. Practice speaking naturally in multiple languages with instant feedback and live transcriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
